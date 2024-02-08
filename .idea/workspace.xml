@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="新增搜索插入位置代码">
-      <change afterPath="$PROJECT_DIR$/01 数组/03 在排序数组中查找元素的第一个和最后一个位置.md" afterDir="false" />
+    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="新增整数二分相似试题">
+      <change afterPath="$PROJECT_DIR$/01 数组/00 整数二分小结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01 数组/04 x的平方根.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/01 二分查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/01 二分查找.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/02 搜索插入位置.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/02 搜索插入位置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/03 在排序数组中查找元素的第一个和最后一个位置.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/03 在排序数组中查找元素的第一个和最后一个位置.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707383699034</updated>
       <workItem from="1707383700614" duration="1278000" />
-      <workItem from="1707385013066" duration="7169000" />
+      <workItem from="1707385013066" duration="8759000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <created>1707384421797</created>
@@ -106,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707392973039</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="新增整数二分相似试题">
+      <created>1707394050479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707394050479</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +138,8 @@
     <MESSAGE value="add README.md" />
     <MESSAGE value="新增二分查找代码" />
     <MESSAGE value="新增搜索插入位置代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增搜索插入位置代码" />
+    <MESSAGE value="新增整数二分相似试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增整数二分相似试题" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
