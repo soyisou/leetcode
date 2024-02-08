@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="新增整数二分相似试题">
-      <change afterPath="$PROJECT_DIR$/01 数组/11  移除元素.md" afterDir="false" />
+    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="新增双指针算法题">
+      <change afterPath="$PROJECT_DIR$/01 数组/12  删除有序数组中的重复项.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/11  移除元素.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/11  移除元素.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "configurable.group.build"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,6 +55,9 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\87866\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="" />
@@ -62,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707383699034</updated>
       <workItem from="1707383700614" duration="1278000" />
-      <workItem from="1707385013066" duration="14253000" />
+      <workItem from="1707385013066" duration="15625000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <created>1707384421797</created>
@@ -127,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707396829382</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="新增双指针算法题">
+      <created>1707404033663</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707404033663</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +160,8 @@
     <MESSAGE value="新增二分查找代码" />
     <MESSAGE value="新增搜索插入位置代码" />
     <MESSAGE value="新增整数二分相似试题" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增整数二分相似试题" />
+    <MESSAGE value="新增双指针算法题" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增双指针算法题" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
