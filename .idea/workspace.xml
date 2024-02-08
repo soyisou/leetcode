@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="add README.md">
-      <change afterPath="$PROJECT_DIR$/01 数组/01 二分查找.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="新增二分查找代码">
+      <change afterPath="$PROJECT_DIR$/01 数组/02 搜索插入位置.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/01 二分查找.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/01 二分查找.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/Codes/JAVA/leetcode/01 数组",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -48,6 +49,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\JAVA\leetcode\01 数组" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707383699034</updated>
       <workItem from="1707383700614" duration="1278000" />
-      <workItem from="1707385013066" duration="2803000" />
+      <workItem from="1707385013066" duration="6082000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <created>1707384421797</created>
@@ -87,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707386253097</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新增二分查找代码">
+      <created>1707388400090</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707388400090</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,7 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+    <MESSAGE value="新增二分查找代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增二分查找代码" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
