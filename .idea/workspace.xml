@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="新增双指针算法题">
-      <change afterPath="$PROJECT_DIR$/01 数组/43 螺旋遍历二维数组.md" afterDir="false" />
+    <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="新增哈希表笔试题">
+      <change afterPath="$PROJECT_DIR$/05 双指针/010 三数之和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 双指针/09 两数之和-输入有序数组.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +38,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showModules" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Codes/JAVA/leetcode/01 数组&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/Codes/JAVA/leetcode/05 双指针",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\JAVA\leetcode\05 双指针" />
+      <recent name="D:\Codes\JAVA\leetcode\03 哈希表" />
+      <recent name="D:\Codes\JAVA\leetcode\02 链表" />
       <recent name="D:\Codes\JAVA\leetcode\01 数组" />
     </key>
   </component>
@@ -71,7 +76,7 @@
       <workItem from="1707412702741" duration="103000" />
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
-      <workItem from="1707485977927" duration="5042000" />
+      <workItem from="1707485977927" duration="34637000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md">
       <created>1707384421797</created>
@@ -213,7 +218,112 @@
       <option name="project" value="LOCAL" />
       <updated>1707492132005</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="新增双指针算法题">
+      <created>1707492943571</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1707492943571</updated>
+    </task>
+    <task id="LOCAL-00022" summary="新增链表笔试题">
+      <created>1707575746823</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1707575746823</updated>
+    </task>
+    <task id="LOCAL-00023" summary="新增链表笔试题">
+      <created>1707583744505</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1707583744505</updated>
+    </task>
+    <task id="LOCAL-00024" summary="新增链表笔试题">
+      <created>1707707023854</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1707707023854</updated>
+    </task>
+    <task id="LOCAL-00025" summary="新增链表笔试题">
+      <created>1707721541179</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1707721541179</updated>
+    </task>
+    <task id="LOCAL-00026" summary="新增链表笔试题">
+      <created>1707723635049</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1707723635049</updated>
+    </task>
+    <task id="LOCAL-00027" summary="新增链表笔试题">
+      <created>1707727193755</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1707727193755</updated>
+    </task>
+    <task id="LOCAL-00028" summary="新增链表笔试题">
+      <created>1707730828523</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1707730828523</updated>
+    </task>
+    <task id="LOCAL-00029" summary="新增链表笔试题">
+      <created>1707731009305</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1707731009305</updated>
+    </task>
+    <task id="LOCAL-00030" summary="新增哈希表笔试题">
+      <created>1707731290329</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1707731290329</updated>
+    </task>
+    <task id="LOCAL-00031" summary="新增哈希表笔试题">
+      <created>1707735773893</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1707735773893</updated>
+    </task>
+    <task id="LOCAL-00032" summary="新增哈希表笔试题">
+      <created>1707796247711</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1707796247711</updated>
+    </task>
+    <task id="LOCAL-00033" summary="新增哈希表笔试题">
+      <created>1707799412300</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1707799412300</updated>
+    </task>
+    <task id="LOCAL-00034" summary="新增哈希表笔试题">
+      <created>1707800545304</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1707800545304</updated>
+    </task>
+    <task id="LOCAL-00035" summary="新增哈希表笔试题">
+      <created>1707801575295</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1707801575295</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,7 +346,9 @@
     <MESSAGE value="新增搜索插入位置代码" />
     <MESSAGE value="新增整数二分相似试题" />
     <MESSAGE value="新增双指针算法题" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增双指针算法题" />
+    <MESSAGE value="新增链表笔试题" />
+    <MESSAGE value="新增哈希表笔试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增哈希表笔试题" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

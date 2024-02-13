@@ -46,14 +46,34 @@
 ### [3.2 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/)
 ### [3.3 快乐数](https://leetcode.cn/problems/happy-number/)
 ### [3.4 两数之和](https://leetcode.cn/problems/two-sum/)
-### [3.5 四数相加II](https://leetcode.cn/problems/4sum-ii/)
-### [3.6 赎金信](https://leetcode.cn/problems/ransom-note/)
-### [3.7 三数之和](https://leetcode.cn/problems/3sum/)
-### [3.8 四数之和](https://leetcode.cn/problems/4sum/)
+### [3.5 两数之和-输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/)
+### [3.6 三数之和](https://leetcode.cn/problems/3sum/)
+### [3.7 四数之和](https://leetcode.cn/problems/4sum/)
+### [3.8 四数相加II](https://leetcode.cn/problems/4sum-ii/)
+### [3.9 赎金信](https://leetcode.cn/problems/ransom-note/)
+
 
 ## 四、字符串
+### [4.1 移除元素](https://leetcode.cn/problems/remove-element/)
+### [4.2 反转字符串](https://leetcode.cn/problems/reverse-string/)
+### [4.3 替换数字](https://kamacoder.com/problempage.php?pid=1064)
+### [4.4 翻转字符串里的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
+### [4.5 右旋字符串](https://kamacoder.com/problempage.php?pid=1065)
+### [4.6 实现 strStr()](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+### [4.7 重复的子字符串](https://leetcode.cn/problems/repeated-substring-pattern/)
 
 ## 五、双指针
+### [5.1 移除元素](https://leetcode.cn/problems/remove-element/)
+### [5.2 反转字符串](https://leetcode.cn/problems/reverse-string/)
+### [5.3 替换数字](https://kamacoder.com/problempage.php?pid=1064)
+### [5.4 翻转字符串里的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
+### [5.5 反转链表](https://leetcode.cn/problems/reverse-linked-list/)
+### [5.6 删除链表的倒数第N个节点](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/)
+### [5.7 链表相交](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)
+### [5.8 环形链表II](https://leetcode.cn/problems/linked-list-cycle-ii/)
+### [5.9 两数之和-输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/)
+### [5.10 三数之和](https://leetcode.cn/problems/3sum/)
+### [5.11 四数之和](https://leetcode.cn/problems/4sum/)
 
 ## 六、栈与队列
 
