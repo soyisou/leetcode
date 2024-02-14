@@ -46,9 +46,9 @@
 ### [3.2 两个数组的交集](https://leetcode.cn/problems/intersection-of-two-arrays/)
 ### [3.3 快乐数](https://leetcode.cn/problems/happy-number/)
 ### [3.4 两数之和](https://leetcode.cn/problems/two-sum/)
-### [3.5 三数之和](https://leetcode.cn/problems/3sum/)
-### [3.6 四数之和](https://leetcode.cn/problems/4sum/)
-### [3.7 四数相加 II](https://leetcode.cn/problems/4sum-ii/)
+### [3.5 四数相加 II](https://leetcode.cn/problems/4sum-ii/)
+### [3.6 三数之和](https://leetcode.cn/problems/3sum/)
+### [3.7 四数之和](https://leetcode.cn/problems/4sum/)
 ### [3.8 赎金信](https://leetcode.cn/problems/ransom-note/)
 
 
