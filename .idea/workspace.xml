@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change afterPath="$PROJECT_DIR$/04 字符串/07 重复的子字符串.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 字符串/06 实现strStr().md" beforeDir="false" afterPath="$PROJECT_DIR$/04 字符串/06 实现strStr().md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 双指针/01 移除元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 双指针/02 翻转字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 双指针/03 替换数字.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05 双指针/04 翻转字符串里的单词.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,25 +38,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showModules" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Codes/JAVA/leetcode/04 字符串&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/Codes/JAVA/leetcode/05 双指针",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\JAVA\leetcode\05 双指针" />
       <recent name="D:\Codes\JAVA\leetcode\04 字符串" />
       <recent name="D:\Codes\JAVA\leetcode\03 哈希表" />
-      <recent name="D:\Codes\JAVA\leetcode\05 双指针" />
       <recent name="D:\Codes\JAVA\leetcode\02 链表" />
       <recent name="D:\Codes\JAVA\leetcode\01 数组" />
     </key>
@@ -77,21 +78,7 @@
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
       <workItem from="1707485977927" duration="54469000" />
-      <workItem from="1707948381868" duration="3961000" />
-    </task>
-    <task id="LOCAL-00004" summary="add README.md">
-      <created>1707386253097</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1707386253097</updated>
-    </task>
-    <task id="LOCAL-00005" summary="新增二分查找代码">
-      <created>1707388400090</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1707388400090</updated>
+      <workItem from="1707948381868" duration="4278000" />
     </task>
     <task id="LOCAL-00006" summary="新增搜索插入位置代码">
       <created>1707392973039</created>
@@ -422,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707956236737</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="更新算法笔试题">
+      <created>1707970619617</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1707970619617</updated>
+    </task>
+    <task id="LOCAL-00054" summary="更新算法笔试题">
+      <created>1707970743290</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1707970743290</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
