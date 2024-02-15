@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change afterPath="$PROJECT_DIR$/04 字符串/04 翻转字符串里的单词.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04 字符串/07 重复的子字符串.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 链表/05 删除链表的倒数第N个节点.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 链表/05 删除链表的倒数第N个节点.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 链表/06 链表相交.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 链表/06 链表相交.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 链表/07 环形链表 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 链表/07 环形链表 II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 哈希表/02 两个数组的交集.md" beforeDir="false" afterPath="$PROJECT_DIR$/03 哈希表/02 两个数组的交集.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 哈希表/03 快乐数.md" beforeDir="false" afterPath="$PROJECT_DIR$/03 哈希表/03 快乐数.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 哈希表/04 两数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/03 哈希表/04 两数之和.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 哈希表/05 四数之和 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/03 哈希表/05 四数之和 II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 哈希表/06 赎金信.md" beforeDir="false" afterPath="$PROJECT_DIR$/03 哈希表/06 赎金信.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 哈希表/07 三数之和.md" beforeDir="false" afterPath="$PROJECT_DIR$/03 哈希表/07 三数之和.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 字符串/01 翻转字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/04 字符串/01 翻转字符串.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 字符串/02 翻转字符串 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/04 字符串/02 翻转字符串 II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 字符串/03 替换数字.md" beforeDir="false" afterPath="$PROJECT_DIR$/04 字符串/03 替换数字.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 字符串/06 实现strStr().md" beforeDir="false" afterPath="$PROJECT_DIR$/04 字符串/06 实现strStr().md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +37,20 @@
     <option name="showLibraryContents" value="true" />
     <option name="showModules" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/Codes/JAVA/leetcode/04 字符串",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Codes/JAVA/leetcode/04 字符串&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Codes\JAVA\leetcode\04 字符串" />
@@ -87,28 +76,8 @@
       <workItem from="1707412702741" duration="103000" />
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
-      <workItem from="1707485977927" duration="53196000" />
-    </task>
-    <task id="LOCAL-00001" summary="add README.md">
-      <created>1707384421797</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1707384421797</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add README.md">
-      <created>1707384826489</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1707384826489</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add README.md">
-      <created>1707385036548</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1707385036548</updated>
+      <workItem from="1707485977927" duration="54469000" />
+      <workItem from="1707948381868" duration="3961000" />
     </task>
     <task id="LOCAL-00004" summary="add README.md">
       <created>1707386253097</created>
@@ -432,7 +401,28 @@
       <option name="project" value="LOCAL" />
       <updated>1707902129544</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="增加字符串笔试题">
+      <created>1707906204426</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1707906204426</updated>
+    </task>
+    <task id="LOCAL-00051" summary="更新算法笔试题">
+      <created>1707906231799</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1707906231799</updated>
+    </task>
+    <task id="LOCAL-00052" summary="更新算法笔试题">
+      <created>1707956236737</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1707956236737</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,6 +453,7 @@
     <MESSAGE value="新增哈希表算法笔试题" />
     <MESSAGE value="新增算法笔试题" />
     <MESSAGE value="新增字符串算法笔试题" />
+    <MESSAGE value="增加字符串笔试题" />
     <MESSAGE value="更新算法笔试题" />
     <option name="LAST_COMMIT_MESSAGE" value="更新算法笔试题" />
   </component>
