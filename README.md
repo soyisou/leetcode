@@ -77,7 +77,9 @@
 ### [6.4 删除字符串中的所有相邻重复项](https://leetcode.cn/problems/remove-all-adjacent-duplicates-in-string/)
 ### [6.5 逆波兰表达式求值](https://leetcode.cn/problems/evaluate-reverse-polish-notation/)
 ### [6.6 滑动窗口最大值](https://leetcode.cn/problems/sliding-window-maximum/)
-### [6.7 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)
+### [6.7 单调栈](https://www.acwing.com/problem/content/832/)
+### [6.8 单调队列](https://www.acwing.com/problem/content/156/)
+### [6.9 前 K 个高频元素](https://leetcode.cn/problems/top-k-frequent-elements/)
 
 ## 七、二叉树 (45道)
 ### [7.1 二叉树的递归遍历]()

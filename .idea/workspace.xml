@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change afterPath="$PROJECT_DIR$/05 双指针/01 移除元素.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 双指针/02 翻转字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 双指针/03 替换数字.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 双指针/04 翻转字符串里的单词.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/01 二叉树的前序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/02 二叉树的后序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/03 二叉树的中序遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 栈与队列/01 用栈实现队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/06 栈与队列/01 用栈实现队列.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/Codes/JAVA/leetcode/05 双指针",
+    "last_opened_file_path": "D:/Codes/JAVA/leetcode/07 二叉树",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -54,11 +56,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Codes\JAVA\leetcode\07 二叉树" />
+      <recent name="D:\Codes\JAVA\leetcode\06 栈与队列" />
       <recent name="D:\Codes\JAVA\leetcode\05 双指针" />
       <recent name="D:\Codes\JAVA\leetcode\04 字符串" />
       <recent name="D:\Codes\JAVA\leetcode\03 哈希表" />
-      <recent name="D:\Codes\JAVA\leetcode\02 链表" />
-      <recent name="D:\Codes\JAVA\leetcode\01 数组" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -78,91 +80,7 @@
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
       <workItem from="1707485977927" duration="54469000" />
-      <workItem from="1707948381868" duration="4278000" />
-    </task>
-    <task id="LOCAL-00006" summary="新增搜索插入位置代码">
-      <created>1707392973039</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1707392973039</updated>
-    </task>
-    <task id="LOCAL-00007" summary="新增整数二分相似试题">
-      <created>1707394050479</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1707394050479</updated>
-    </task>
-    <task id="LOCAL-00008" summary="新增整数二分相似试题">
-      <created>1707395938038</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1707395938038</updated>
-    </task>
-    <task id="LOCAL-00009" summary="新增整数二分相似试题">
-      <created>1707396829382</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1707396829382</updated>
-    </task>
-    <task id="LOCAL-00010" summary="新增双指针算法题">
-      <created>1707404033663</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1707404033663</updated>
-    </task>
-    <task id="LOCAL-00011" summary="新增双指针算法题">
-      <created>1707405508213</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1707405508213</updated>
-    </task>
-    <task id="LOCAL-00012" summary="新增双指针算法题">
-      <created>1707406784846</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1707406784846</updated>
-    </task>
-    <task id="LOCAL-00013" summary="新增双指针算法题">
-      <created>1707410122917</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1707410122917</updated>
-    </task>
-    <task id="LOCAL-00014" summary="新增双指针算法题">
-      <created>1707411642909</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1707411642909</updated>
-    </task>
-    <task id="LOCAL-00015" summary="新增双指针算法题">
-      <created>1707412711052</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1707412711052</updated>
-    </task>
-    <task id="LOCAL-00016" summary="新增双指针算法题">
-      <created>1707412928715</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1707412928715</updated>
-    </task>
-    <task id="LOCAL-00017" summary="新增双指针算法题">
-      <created>1707455412186</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1707455412186</updated>
+      <workItem from="1707948381868" duration="23568000" />
     </task>
     <task id="LOCAL-00018" summary="新增双指针算法题">
       <created>1707488633729</created>
@@ -423,7 +341,91 @@
       <option name="project" value="LOCAL" />
       <updated>1707970743290</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="更新算法笔试题">
+      <created>1707970990605</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1707970990605</updated>
+    </task>
+    <task id="LOCAL-00056" summary="更新算法笔试题">
+      <created>1707972584149</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1707972584149</updated>
+    </task>
+    <task id="LOCAL-00057" summary="更新算法笔试题">
+      <created>1707991952455</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1707991952455</updated>
+    </task>
+    <task id="LOCAL-00058" summary="更新算法笔试题">
+      <created>1707994185552</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1707994185552</updated>
+    </task>
+    <task id="LOCAL-00059" summary="更新算法笔试题">
+      <created>1707996281261</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1707996281261</updated>
+    </task>
+    <task id="LOCAL-00060" summary="更新算法笔试题">
+      <created>1708005401066</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1708005401066</updated>
+    </task>
+    <task id="LOCAL-00061" summary="更新算法笔试题">
+      <created>1708012067676</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1708012067676</updated>
+    </task>
+    <task id="LOCAL-00062" summary="更新算法笔试题">
+      <created>1708012763268</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1708012763268</updated>
+    </task>
+    <task id="LOCAL-00063" summary="更新算法笔试题">
+      <created>1708012814868</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1708012814868</updated>
+    </task>
+    <task id="LOCAL-00064" summary="更新算法笔试题">
+      <created>1708050771643</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1708050771643</updated>
+    </task>
+    <task id="LOCAL-00065" summary="更新算法笔试题">
+      <created>1708055835670</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055835670</updated>
+    </task>
+    <task id="LOCAL-00066" summary="更新算法笔试题">
+      <created>1708056114243</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1708056114243</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
