@@ -1,6 +1,6 @@
-# Leetcode 经典算法笔试题 (102道)
+# Leetcode 经典算法笔试题
 * **目的和用途：**
-本刷题目录主要参考[代码随想录](https://programmercarl.com/%E6%95%B0%E7%BB%84%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html), 用于计算机专业本科生或者硕士生找实习或者找工作，旨在用最短的时间和最高的效率攻克笔试中的经典题型。
+本刷题目录主要参考 [代码随想录](https://programmercarl.com/%E6%95%B0%E7%BB%84%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html) , 用于计算机专业本科生或者硕士生找实习或者找工作，旨在用最短的时间和最高的效率攻克笔试中的经典题型。
 
 * **题目数量：** 试题难度由低至高，且具有一定的通用性和代表性，大约有200道经典题目。
 
@@ -70,7 +70,7 @@
 ### [5.10 三数之和](https://leetcode.cn/problems/3sum/)
 ### [5.11 四数之和](https://leetcode.cn/problems/4sum/)
 
-## 六、栈与队列 (7道)
+## 六、栈与队列 (9道)
 ### [6.1 用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/)
 ### [6.2 用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/)
 ### [6.3 有效的括号](https://leetcode.cn/problems/valid-parentheses/)

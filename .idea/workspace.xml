@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
+      <change afterPath="$PROJECT_DIR$/07 二叉树/07 二叉树层序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/08 二叉树层序遍历 II.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/09 二叉树的右视图.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/10 二叉树的层平均值.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/11 N叉树的层序遍历.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 二叉树/04 二叉树的前序迭代遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/04 二叉树的前序迭代遍历.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 二叉树/05 二叉树的后序迭代遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/05 二叉树的后序迭代遍历.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 二叉树/06 二叉树的中序迭代遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/06 二叉树的中序迭代遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/11 移除元素.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/06 移除元素.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/12 删除有序数组中的重复项.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/07 删除有序数组中的重复项.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/13 移动零.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/08 移动零.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/14 比较含退格的字符串.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/09 比较含退格的字符串.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/21 有序数组的平方.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/10 有序数组的平方.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/31 长度最小的子数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/11 长度最小的子数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/41 旋转陀螺 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/12 旋转陀螺 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/42 旋转陀螺.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/13 旋转陀螺.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 数组/43 螺旋遍历二维数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/01 数组/14 螺旋遍历二维数组.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +90,7 @@
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
       <workItem from="1707485977927" duration="54469000" />
-      <workItem from="1707948381868" duration="29268000" />
-    </task>
-    <task id="LOCAL-00021" summary="新增双指针算法题">
-      <created>1707492943571</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1707492943571</updated>
+      <workItem from="1707948381868" duration="33473000" />
     </task>
     <task id="LOCAL-00022" summary="新增链表笔试题">
       <created>1707575746823</created>
@@ -423,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708159008796</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="更新算法笔试题">
+      <created>1708159559963</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1708159559963</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
