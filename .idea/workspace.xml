@@ -78,14 +78,7 @@
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
       <workItem from="1707485977927" duration="54469000" />
-      <workItem from="1707948381868" duration="28733000" />
-    </task>
-    <task id="LOCAL-00020" summary="新增双指针算法题">
-      <created>1707492132005</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1707492132005</updated>
+      <workItem from="1707948381868" duration="29268000" />
     </task>
     <task id="LOCAL-00021" summary="新增双指针算法题">
       <created>1707492943571</created>
@@ -423,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708146697163</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="更新算法笔试题">
+      <created>1708159008796</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1708159008796</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
