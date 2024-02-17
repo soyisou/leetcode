@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change afterPath="$PROJECT_DIR$/07 二叉树/01 二叉树的前序遍历.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 二叉树/02 二叉树的后序遍历.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 二叉树/03 二叉树的中序遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/04 二叉树的前序迭代遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/05 二叉树的后序迭代遍历.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/06 二叉树的中序迭代遍历.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06 栈与队列/01 用栈实现队列.md" beforeDir="false" afterPath="$PROJECT_DIR$/06 栈与队列/01 用栈实现队列.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/01 二叉树的前序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/01 二叉树的前序递归遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/02 二叉树的后序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/02 二叉树的后序递归遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/03 二叉树的中序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/03 二叉树的中序递归遍历.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,14 +81,7 @@
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
       <workItem from="1707485977927" duration="54469000" />
-      <workItem from="1707948381868" duration="23568000" />
-    </task>
-    <task id="LOCAL-00018" summary="新增双指针算法题">
-      <created>1707488633729</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1707488633729</updated>
+      <workItem from="1707948381868" duration="27201000" />
     </task>
     <task id="LOCAL-00019" summary="新增双指针算法题">
       <created>1707491974003</created>
@@ -425,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708056114243</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="更新算法笔试题">
+      <created>1708083329621</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1708083329621</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
