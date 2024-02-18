@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/19 相同的树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/20 另一个树的子树.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/21 完全二叉树的节点个数 .md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/15 二叉树的最大深度.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/15 二叉树的最大深度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/16 二叉树的最小深度.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/16 二叉树的最小深度.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/18 对称二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/18 对称二叉树.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +81,7 @@
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
       <workItem from="1707485977927" duration="54469000" />
-      <workItem from="1707948381868" duration="43587000" />
-    </task>
-    <task id="LOCAL-00027" summary="新增链表笔试题">
-      <created>1707727193755</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1707727193755</updated>
+      <workItem from="1707948381868" duration="53564000" />
     </task>
     <task id="LOCAL-00028" summary="新增链表笔试题">
       <created>1707730828523</created>
@@ -420,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708253350574</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="更新算法笔试题">
+      <created>1708253489433</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1708253489433</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
