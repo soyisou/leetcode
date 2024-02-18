@@ -109,6 +109,8 @@
 ### [7.4 翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/)
 
 ### [7.5 对称二叉树](https://leetcode.cn/problems/symmetric-tree/)
+* [100.相同的树](https://leetcode.cn/problems/same-tree/)
+* [572.另一个树的子树](https://leetcode.cn/problems/subtree-of-another-tree/)
 
 ### [7.6 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
 * [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)
