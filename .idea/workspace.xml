@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change afterPath="$PROJECT_DIR$/07 二叉树/13 填充每个节点的下一个右侧节点指针.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 二叉树/14 填充每个节点的下一个右侧节点指针 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 二叉树/15 二叉树的最大深度.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 二叉树/16 二叉树的最小深度.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07 二叉树/18 对称二叉树.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 二叉树/08 二叉树层序遍历 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/08 二叉树层序遍历 II.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 二叉树/09 二叉树的右视图.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/09 二叉树的右视图.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 二叉树/11 N叉树的层序遍历.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/11 N叉树的层序遍历.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 链表/07 环形链表 II.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 链表/07 环形链表 II.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,21 +78,7 @@
       <workItem from="1707412819588" duration="350000" />
       <workItem from="1707449566798" duration="1857000" />
       <workItem from="1707485977927" duration="54469000" />
-      <workItem from="1707948381868" duration="36267000" />
-    </task>
-    <task id="LOCAL-00024" summary="新增链表笔试题">
-      <created>1707707023854</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1707707023854</updated>
-    </task>
-    <task id="LOCAL-00025" summary="新增链表笔试题">
-      <created>1707721541179</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1707721541179</updated>
+      <workItem from="1707948381868" duration="43463000" />
     </task>
     <task id="LOCAL-00026" summary="新增链表笔试题">
       <created>1707723635049</created>
@@ -427,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1708165119858</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="更新算法笔试题">
+      <created>1708167319117</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1708167319117</updated>
+    </task>
+    <task id="LOCAL-00074" summary="更新算法笔试题">
+      <created>1708237145966</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1708237145966</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
