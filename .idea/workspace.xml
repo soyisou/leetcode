@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 二叉树/25 找树左下角的值.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 链表/03 翻转链表.md" beforeDir="false" afterPath="$PROJECT_DIR$/02 链表/03 翻转链表.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 二叉树/20 另一个树的子树.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/20 另一个树的子树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/19 相同的树.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/19 相同的树.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,14 +79,7 @@
       <workItem from="1707485977927" duration="54469000" />
       <workItem from="1707948381868" duration="56276000" />
       <workItem from="1708344899118" duration="1523000" />
-      <workItem from="1708346457945" duration="7455000" />
-    </task>
-    <task id="LOCAL-00032" summary="新增哈希表笔试题">
-      <created>1707796247711</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1707796247711</updated>
+      <workItem from="1708346457945" duration="7512000" />
     </task>
     <task id="LOCAL-00033" summary="新增哈希表笔试题">
       <created>1707799412300</created>
@@ -429,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708350496999</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="更新算法笔试题">
+      <created>1708360906229</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1708360906229</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
