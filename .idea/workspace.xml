@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617d5f1a-d48a-4cab-8425-aa381d7a1ccc" name="Changes" comment="更新算法笔试题">
-      <change beforePath="$PROJECT_DIR$/07 二叉树/19 相同的树.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/19 相同的树.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 二叉树/18 对称二叉树.md" beforeDir="false" afterPath="$PROJECT_DIR$/07 二叉树/18 对称二叉树.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,14 +80,7 @@
       <workItem from="1707485977927" duration="54469000" />
       <workItem from="1707948381868" duration="56276000" />
       <workItem from="1708344899118" duration="1523000" />
-      <workItem from="1708346457945" duration="7512000" />
-    </task>
-    <task id="LOCAL-00033" summary="新增哈希表笔试题">
-      <created>1707799412300</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1707799412300</updated>
+      <workItem from="1708346457945" duration="11753000" />
     </task>
     <task id="LOCAL-00034" summary="新增哈希表笔试题">
       <created>1707800545304</created>
@@ -424,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708360906229</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="更新算法笔试题">
+      <created>1708360962772</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1708360962772</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
